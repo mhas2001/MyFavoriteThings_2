@@ -1,0 +1,18 @@
+    body{
+        background-color: darkgoldenrod;
+        font-family: "Gill Sans";
+        color:  #444444;
+    }
+
+    h1 {
+        text-align: center;
+        font-size: 40px;
+    }
+
+    img {
+        border-radius: 15px;
+    }
+
+    li {
+        list-style-type: square;
+    }
